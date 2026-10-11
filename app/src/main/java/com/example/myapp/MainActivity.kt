@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
         webView.webViewClient = WebViewClient()
 
         // 换成你的网站地址
-        webView.loadUrl("https://hd27.ccwc.cc")
+        webView.loadUrl("https://666-wby.pages.dev")
 
         setContentView(webView)
     }
