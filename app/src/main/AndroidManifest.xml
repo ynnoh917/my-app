@@ -5,7 +5,8 @@
 
     <application
         android:allowBackup="true"
-        android:label="我的服务"
+        android:icon="@drawable/a"
+        android:label="公益"
         android:usesCleartextTraffic="false"
         android:theme="@android:style/Theme.Material.NoActionBar">
 
